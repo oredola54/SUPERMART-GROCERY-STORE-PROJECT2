@@ -50,7 +50,8 @@ RECOMMENDATIONS:
 -  plt.savefig("SALES PER DAY.png")
 -  plt.show() 
 
-![CATEGORY BY SALES](https://github.com/user-attachments/assets/c96b6fac-664b-403f-8ffe-a89c28665048)
+![SALES PER DAY (1)](https://github.com/user-attachments/assets/9577a8dd-37fe-46bb-954e-1e012d92f23a)
+
 
 
 2. TOP 5 CITY BY SALES:
